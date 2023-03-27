@@ -106,6 +106,7 @@ else {
 //   console.log("Il numero non è un numero primo.");
 // }
 
+//* soluzione 3
 //* Verifica se il primo numero è primo
 // let num1 = prompt("Inserisci il primo numero:");
 // let isPrime1 = true;
